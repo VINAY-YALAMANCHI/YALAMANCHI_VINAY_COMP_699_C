@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AI-Interview Simulator is a role-specific, AI-powered application developed by TechSkill Solutions to help students and professionals prepare for job interviews. It uses speech recognition, natural language processing (NLP), and machine learning (ML) to simulate realistic interview scenarios. Candidates receive automated feedback on both the content and delivery of their responses, enabling continuous improvement in communication skills, answer quality, and confidence.
+The AI-Interview Simulator is a role-specific, AI-powered application developed by TechSkill Solutions to help students and professionals prepare for job interviews. It uses speech recognition, natural language processing (NLP) to simulate realistic interview scenarios. Candidates receive automated feedback on both the content and delivery of their responses, enabling continuous improvement in communication skills, answer quality, and confidence.
 
 ## Project Objectives
 
