@@ -68,7 +68,7 @@ The AI-Interview Simulator is a role-specific, AI-powered application developed 
 
 - Automatic retries for failed recordings.
 - Fallback to text display if TTS fails.
-- Logging of all system events, exceptions, and failures for debugging and audit purposes.
+- Logging of all system events, exceptions, and failures for debugging & audit purposes.
 
 ## Export and Reporting
 
